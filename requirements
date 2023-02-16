@@ -1,0 +1,27 @@
+Flask==0.12.2
+Flask-RESTful==0.3.3
+flask-classy==0.6.10
+cassandra-driver==3.12.0
+cqlengine==0.21.0
+boto==2.48
+#twilio==6.10
+#cryptography==2.1.4
+
+## Data Validation
+#bleach==2.1.2
+#phone==0.4.1
+#pyzipcode3==2.0
+#python-dateutil==2.6.1
+
+#Parsing HTTP Agent Header
+#httpagentparser==1.8.1
+
+#Parsing incoming and outgoing data
+marshmallow==2.15
+
+# Handles plurals
+inflect==0.2.5
+
+#<package>==<version>
+#To pull a library from GIT
+#-e git+https://<USER>@bitbucket.org/<owner>/<project>@v<branch>#egg=<library>

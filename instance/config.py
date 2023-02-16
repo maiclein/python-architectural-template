@@ -1,0 +1,9 @@
+
+#Setup for Flask.
+
+DEBUG = False
+TESTING = False
+TEMPLATES_AUTO_RELOAD = False
+DEFAULT_IP = '0.0.0.0'
+DEFAULT_PORT = 5200
+REST_TIMEOUT = 0.1
